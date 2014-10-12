@@ -3,3 +3,4 @@ All the design work is finished for this version (v2)
 TODO list:
 ----------
 
+tth version: waiting for fab to test pcb
