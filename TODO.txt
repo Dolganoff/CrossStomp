@@ -3,4 +3,6 @@ All the design work is finished for this version (v2)
 TODO list:
 ----------
 
-tth version: waiting for fab to test pcb
+* Tth version: waiting for fab to test pcb
+
+* Both versions: add dry "non affected" channel. Verify phase relationships with high/low channels!
