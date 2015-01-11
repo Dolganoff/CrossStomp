@@ -29,11 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:texas_other
-LIBS:ok-switches
-LIBS:USER
 LIBS:crosstomp-tth-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
